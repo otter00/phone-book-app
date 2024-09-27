@@ -1,3 +1,15 @@
+/* reset styles */
+@import "./reset.scss";
+
+/* general styles */
+@import "./vars.scss";
+
+/* fonts */
+@import "./fonts.scss";
+
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800;900&display=swap");
+
 .App {
   text-align: center;
 }
